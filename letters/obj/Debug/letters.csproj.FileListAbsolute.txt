@@ -1,0 +1,5 @@
+c:\users\chocho\documents\visual studio 2015\Projects\exam18Dec\letters\bin\Debug\letters.exe.config
+c:\users\chocho\documents\visual studio 2015\Projects\exam18Dec\letters\bin\Debug\letters.exe
+c:\users\chocho\documents\visual studio 2015\Projects\exam18Dec\letters\bin\Debug\letters.pdb
+c:\users\chocho\documents\visual studio 2015\Projects\exam18Dec\letters\obj\Debug\letters.exe
+c:\users\chocho\documents\visual studio 2015\Projects\exam18Dec\letters\obj\Debug\letters.pdb
